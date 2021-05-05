@@ -1,0 +1,277 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+header{
+	width:100%;
+	float: left;
+	top:0;
+	padding: 25px 0px;
+
+}
+
+.logo{
+
+	width: 25%;
+	float: left;
+
+}
+.logo img{
+	width: 150px;
+	display: block;
+}
+.menu{
+	
+	width: 75%;
+	float: left;
+}
+
+
+nav ul{
+	list-style: none;
+
+}
+
+nav ul li{
+	display: inline-block;
+	margin: 40px 10px;
+
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: black;
+	text-transform: uppercase;
+
+}
+.fa.fa-facebook-official{
+    
+    color: #3D62AB;
+}
+.fa.fa-twitter-square{
+	color: #1C9CEA;
+}
+.fa.fa-linkedin-square{
+	color: #028DC9;
+}
+.fa.fa-google-plus-square{
+	color: #CF4D3C;
+}
+.fa.fa-sign-in{
+	text-transform: lowercase;
+}
+
+.banner{
+	width:100%;
+	float:left;
+	background: url(../img/banner.jpg)no-repeat;
+	background-size: cover;
+}
+.banner-main{
+	background: #80808073;
+    margin: 50px;
+    padding: 75px;
+    text-align: center;
+}
+.banner-main h2{
+    text-align: center;
+    color: black;
+    font-size: 32px;
+    text-transform: uppercase;
+    padding: 10px;
+}
+.banner-main p{
+	text-align: center;
+	color: black;
+
+}
+
+.portfolio{
+	width:100%;
+	float: left;
+	padding: 25px 0px;
+
+}
+.portfolio-one{
+	width: 25%;
+	float: left;
+	text-align: center;
+	
+	
+}
+.portfolio-icon{
+	background:  #7f5ebb;
+	color: white;
+    width: 75px;
+    height: 75px;
+    line-height: 75px;
+    text-align: center;
+    border-radius: 37.5px;
+    margin: 0 auto;
+ 
+}
+
+
+}
+.portfolio-one h2{
+	margin: 10px 0px;
+
+
+}
+.portfolio-one p{
+	margin: 10px 0px;
+
+}
+.btn {
+    background: lightgreen;
+    color: white;
+    padding: 5px 10px;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    text-transform: uppercase;
+    transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+    -o-transition: 0.4s ease-in-out;
+}
+.btn:hover{
+	cursor: pointer;
+	box-shadow: 1px 2px 5px grey;
+}
+
+
+
+.invest{
+	width:100%;
+	float: left;
+
+}
+
+.invest-one{
+	width :50%;
+	background: lightblue;
+	float: left;
+	
+
+}
+.invest-one h2{
+	text-align: center;
+	margin: 10px 0px;
+}
+.invest-one li{
+	
+	margin:10px 0px;
+	
+}
+.invest-two{
+	width :50%;
+	background: lightblue;
+	float: left;
+
+}
+.invest-two h2{
+	
+	margin: 10px 0px;
+}
+.invest-two li{
+	text-align:center;
+	margin: 10px 0px;
+	
+}
+
+.blog{
+	width:100%;
+	float: left;
+
+}
+.blog-one{
+	width: 100%;
+    float: left;
+    text-align: center;
+}
+
+}
+.blog-one h2{
+	text-align: center;
+
+
+}
+.content-one{
+	width:50%;
+	float:left;
+
+}
+.content-one h2{
+	margin: 25px 0px;
+	color:blue;
+
+}
+.content-one p{
+	margin: 16px 0px;
+    
+
+}
+.content-two{
+	width:50%;
+	float:left;
+}
+.content-two h2{
+    margin: 35px 0px;
+    color: blue;
+}
+.content-two p{
+	margin: 16px 0px;
+
+}
+
+
+.details{
+	width:100%;
+	float: left;
+
+}
+.info{
+	background-color: #8080806b;
+	
+}
+.info h5{
+	text-align: center;
+	margin:10px 0px;
+	padding: 10px;
+}
+.info-icon{
+	text-align: center;
+	margin:10px 0px;
+
+}
+
+footer{
+	width:100%;
+	float: left;
+	padding: 25px 0px;
+	background: #6464f1;
+	color: white;
+
+}
+.copyright{
+	width:50%;
+	float: left;
+	padding: 25px;
+
+}
+.address{
+	width:50;
+	float:left;
+	padding:25px;
+	
+
+}
+
+
